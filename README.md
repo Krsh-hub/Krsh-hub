@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zeuskd_18" target="blank"><img src="https://img.shields.io/twitter/follow/zeuskd_18?logo=twitter&style=for-the-badge" alt="zeuskd_18" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **twitter/x handle: @ZeusKD_18**
 
